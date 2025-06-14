@@ -1,0 +1,7 @@
+El cuaderno Jupyter esta preparado para ejecutarse en Google Colab de forma predeterminada pero también en IDE local (descomentando líneas de código en la parte de Extracción y en la parte de Exportación)
+Librería necesarias para ejecutar el notebook:
+- Pandas 2.2.1
+- Numpy 1.26.4
+- Matplotlib 3.8.4
+- Seaborn 0.13.2
+- Scikit-learn 1.5.2
